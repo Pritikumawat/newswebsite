@@ -1,0 +1,7 @@
+/* #yes{
+    position: absolute;
+    bottom: 0;
+} */
+ li:hover{
+    cursor: grab;
+ }
